@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IBM as a Fullstack Software Developer, with Node.js and React.js,<br>⚡ Fun fact, I've also had an experience with Python and Apache Spark for Big Data Analysis at the same company, <br>💻 Check Out my [**portfolio**](https://joaohb07.github.io/documentation/)!
+🔭 I’m currently working on IBM as a Fullstack Software Developer, with Node.js and React.js,<br>⚡ Fun fact, I've also had an experience with Python and Apache Spark for Big Data Analysis at the same company, <br>💻 Check out my [**portfolio**](https://joaohb07.github.io/documentation/)! With all my projects documentation.
 
 
 ## 🌐 Socials:
